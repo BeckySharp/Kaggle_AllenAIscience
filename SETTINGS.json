@@ -1,0 +1,11 @@
+{
+	"BASE_DIR": "<name-of-directory-where-you-extracted-ai2Cardal>", 
+	
+	"INPUT_DIR"     : "input",
+	"CORPUS_DIR"    : "corpus",
+	"SUBMISSION_DIR": "submission",
+	
+	"TRAINING_FILE"  : "training_set.tsv",
+	"VALIDATION_FILE": "validation_set.tsv",
+	"TESTING_FILE"   : "<name-of-test-file>"
+}
